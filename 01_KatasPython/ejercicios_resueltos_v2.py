@@ -611,7 +611,7 @@ def caso_uso_usuario_banco():
     print(f"Saldo inicial - Alicia: {alicia.saldo}, Bob: {bob.saldo}")
     return alicia, bob
 # Llamada a la función para prueba
-print("\nEjercicio 1.35 - Caso de uso de la clase UsuarioBanco:")
+print("\nEjercicio 1.36 - Caso de uso de la clase UsuarioBanco:")
 alicia, bob = caso_uso_usuario_banco()
 
 # Agregar 20 unidades de saldo de "Bob".
