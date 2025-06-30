@@ -57,6 +57,6 @@ Este proyecto realiza un Análisis Exploratorio de Datos (EDA) sobre datos de ca
 5. Abrir Pull Request
 
 ## Autor
-Pedro Polo – Estudiante de PL-300 de Power BI y Analisis de Datos en ThePower Business School.
+Pedro Polo – Certificado AI900 de Microsoft, Master en IA e Innovación 2024, estudiante de PL300 de Microsoft Power BI y Master en Analisis de Datos by ThePower Business School.
 Apasionado por el modelado de datos y la automatización de procesos.
 
